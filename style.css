@@ -1,3 +1,13 @@
 body {
   background: #9fbf9f;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  background-color: black;
+  margin: 0;
+  padding: 30px;
 }
